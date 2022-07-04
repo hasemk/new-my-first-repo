@@ -1,6 +1,9 @@
 h1{
-    color: aliceblue
+    color: rgb(18, 137, 242)
 }
 p{
+    background-color: rgb(230, 7, 22);
+    color: aquamarine;
+} i{
     background-color: blue;
 }
